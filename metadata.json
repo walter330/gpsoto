@@ -1,0 +1,6 @@
+{
+  "name": "GPSoto - Observatorio & Noticias",
+  "description": "Portal editorial de noticias, gestión pública e investigación en infraestructura y resoluciones judiciales (https://gpsoto.com).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

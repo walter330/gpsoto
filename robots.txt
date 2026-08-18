@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /config.php
+Disallow: /database.sql
+
+Sitemap: https://tudominio.com/sitemap.xml
+Sitemap: https://tudominio.com/news-sitemap.xml
